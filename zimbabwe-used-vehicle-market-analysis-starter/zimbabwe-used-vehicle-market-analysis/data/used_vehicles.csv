@@ -1,0 +1,22 @@
+listing_id,make,model,year,price,currency,mileage_km,transmission,fuel_type,body_type,location,date_collected,source_name,listing_url,notes
+ZWV001,Toyota,Axio,2017,12000,USD,56000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; recent import
+ZWV002,Toyota,Axio,2016,13800,USD,67000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; recent import
+ZWV003,Toyota,Axio,2014,9500,USD,105000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; used
+ZWV004,Toyota,Axio,2014,10800,USD,81000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Advertised as before duty
+ZWV005,Toyota,Axio,2012,9500,USD,128000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; used
+ZWV006,Toyota,Axio,2018,15000,USD,71000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; recent import
+ZWV007,Toyota,Axio,2016,10800,USD,15000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; recent import
+ZWV008,Toyota,Axio,2016,13500,USD,76900,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; 1.8L
+ZWV009,Toyota,Axio,2016,10500,USD,15000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; used
+ZWV010,Toyota,Axio,2014,10500,USD,105000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; used
+ZWV011,Toyota,Axio,2017,12800,USD,85000,Manual,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; recent import
+ZWV012,Toyota,Axio,2014,8800,USD,96000,Automatic,Petrol,Sedan,Harare,2026-11-05,AutoTrader Zimbabwe,https://www.autotrader.co.zw/cars/for-sale/harare/toyota/axio,Search-results listing; used
+ZWV013,Toyota,Axio,2017,15000,USD,62000,Automatic,Petrol,Sedan,Harare East,2026-11-05,Classifieds.co.zw,https://www.classifieds.co.zw/zimbabwe-cars/Toyota/axio/used,2017 Corolla Axio non-hybrid
+ZWV014,Toyota,Axio,2016,12800,USD,65000,Automatic,Hybrid,Sedan,Harare North,2026-11-05,Classifieds.co.zw,https://www.classifieds.co.zw/zimbabwe-cars/Toyota/axio/used,Advertised as hybrid
+ZWV015,Toyota,Axio,2009,7800,USD,125000,Automatic,Petrol,Sedan,Harare West,2026-11-05,Classifieds.co.zw,https://www.classifieds.co.zw/zimbabwe-cars/Toyota/axio/used,Negotiable
+ZWV016,Toyota,Axio,2018,15000,USD,71000,Automatic,Petrol,Sedan,Harare East,2026-11-05,Classifieds.co.zw,https://www.classifieds.co.zw/zimbabwe-cars/Toyota/axio/used,Negotiable; 1.5L
+ZWV017,Toyota,Axio,2017,12800,USD,59443,Automatic,Hybrid,Sedan,Harare West,2026-11-05,Classifieds.co.zw,https://www.classifieds.co.zw/zimbabwe-cars/Toyota/axio/used,Advertised as hybrid
+ZWV018,Toyota,Axio,2015,12000,USD,72000,Automatic,Petrol,Sedan,Harare West,2026-11-05,Classifieds.co.zw,https://www.classifieds.co.zw/zimbabwe-cars/Toyota/axio/used,Negotiable; duty paid
+ZWV019,Honda,Fit,2019,12500,USD,12500,,,Hatchback,"Mt Pleasant, Harare",2026-11-05,Zimbabwe Marketplace,https://www.zimbabwemarketplace.co.zw/motor-vehicles/harare,Seller listing; transmission/fuel not stated in search result
+ZWV020,Nissan,X-Trail,2019,17000,USD,67254,,,SUV,"Breside, Harare",2026-11-05,Zimbabwe Marketplace,https://www.zimbabwemarketplace.co.zw/motor-vehicles/harare,Seller listing; transmission/fuel not stated in search result
+ZWV021,Toyota,Fortuner,2021,50000,USD,89564,,,SUV,"Mt Pleasant, Harare",2026-11-05,Zimbabwe Marketplace,https://www.zimbabwemarketplace.co.zw/motor-vehicles/harare,Advertised as used; transmission/fuel not stated in search result
