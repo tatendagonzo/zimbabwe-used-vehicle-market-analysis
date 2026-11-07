@@ -108,3 +108,12 @@ Only publicly visible vehicle listing attributes are included. Seller names, pho
 4. Record price conditions such as negotiable, duty paid or before duty consistently.
 5. Refresh the dataset and compare snapshots over time.
 6. Add a dashboard only after the underlying dataset is more complete.
+
+## Visual previews
+
+- [Asking-price distribution](visuals/price_distribution.svg)
+- [Median asking price by model year](visuals/median_price_by_year.svg)
+- [Mileage versus asking price](visuals/mileage_vs_price.svg)
+- [Missing values](visuals/missing_values.svg)
+
+[Open the notebook in Google Colab](https://colab.research.google.com/github/tatendagonzo/zimbabwe-used-vehicle-market-analysis/blob/main/notebooks/vehicle_market_analysis.ipynb).
