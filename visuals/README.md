@@ -1,10 +1,9 @@
 # Generated Visuals
 
-Run all cells in `../notebooks/vehicle_market_analysis.ipynb` to generate:
+Preview charts are committed as SVG files:
 
-- `price_distribution.png`
-- `median_price_by_year.png`
-- `mileage_vs_price.png`
-- `missing_values.png`
+- [Price distribution](price_distribution.svg)
+- [Median asking price by model year](median_price_by_year.svg)
+- [Mileage versus asking price](mileage_vs_price.svg)
 
-The notebook saves generated charts in this folder.
+Run all cells in `../notebooks/vehicle_market_analysis.ipynb` to regenerate the charts. The notebook saves both PNG and SVG versions in this folder, including a missing-values chart.
